@@ -1,2 +1,4 @@
 Hello Endless!
 หฟกห
+Third line added to file1.txt
+Third line added to file1.txt
