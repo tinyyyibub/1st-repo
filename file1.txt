@@ -1,17 +1,10 @@
-<p id="datetime"></p>
-<script>
-  document.getElementById('datetime').innerText = new Date().toLocaleString();
-</script>
-Hello Endless! This is file 1.
-This is file 2, second commit.
-File 3 here! Endless is fun.
-Adding a second line to file1.
-Adding a second line to file2.
-Another line in file3.txt
-Creating file4 for more commits.
-File5 created to reach 10 commits!
-Third line added to file1.txt
-Third line added to file2.txt
-
-
-
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Endless Preview</title>
+</head>
+<body>
+    <h1>Hello Endless! 👋</h1>
+    <p>This preview works directly on GitHub Pages!</p>
+</body>
+</html>
