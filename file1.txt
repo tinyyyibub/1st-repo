@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>GitHub Preview</title>
-</head>
-<body>
-    <h1>Hello Endless! 👋</h1>
-    <p>This is a live preview on GitHub!</p>
-</body>
-</html>
+<p id="datetime"></p>
+<script>
+  document.getElementById('datetime').innerText = new Date().toLocaleString();
+</script>
