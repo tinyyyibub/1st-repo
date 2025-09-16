@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Preview Example</title>
+    <title>GitHub Preview</title>
 </head>
 <body>
     <h1>Hello Endless! 👋</h1>
-    <p>This is a live preview example.</p>
+    <p>This is a live preview on GitHub!</p>
 </body>
 </html>
