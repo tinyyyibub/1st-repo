@@ -10,3 +10,4 @@ Adding a second line to file2.
 Another line in file3.txt
 Creating file4 for more commits.
 File5 created to reach 10 commits!
+Third line added to file1.txt
