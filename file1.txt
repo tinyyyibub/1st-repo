@@ -1,7 +1,10 @@
-Hello Endless!
-หฟกห
-Third line added to file1.txt
-Third line added to file1.txt
-
-
-่่พพพพฐ,
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Preview Example</title>
+</head>
+<body>
+    <h1>Hello Endless! 👋</h1>
+    <p>This is a live preview example.</p>
+</body>
+</html>
