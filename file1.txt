@@ -7,3 +7,4 @@ This is file 2, second commit.
 File 3 here! Endless is fun.
 Adding a second line to file1.
 Adding a second line to file2.
+Another line in file3.txt
